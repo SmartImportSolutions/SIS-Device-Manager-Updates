@@ -1,7 +1,7 @@
 {
-  "versionCode": 2016,
-  "versionName": "2.0.16",
-  "apkUrl": "https://github.com/SmartImportSolutions/SIS-Device-Manager-Updates/releases/download/v2.0.16/SIS_Device_Manager_v2.0.16.apk",
-  "sha256": "a17a1795733333c69ca76dedb86b5bb9e64e27fc89cb1f002aa44cbc0e89957f",
-  "releaseNotes": "Testupdate v2.0.16. Controle van de APK-download, voortgangsbalk en Android-installatie."
+  "versionCode": 2017,
+  "versionName": "2.0.17",
+  "apkUrl": "https://github.com/SmartImportSolutions/SIS-Device-Manager-Updates/releases/download/v2.0.17/Manager.V2.0.17.apk",
+  "sha256": "7563bd5b1568b5e6f8159aa178138ad68432711ba76f0b5d4d1a040c11ba07a7",
+  "releaseNotes": "Verbeterde weergave van Wat is er nieuw. Eenmalige melding na installatie van v2.0.17. GitHub-download voor app-updates."
 }
