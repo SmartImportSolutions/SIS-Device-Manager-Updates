@@ -3,6 +3,6 @@
   "versionCode": 2019,
   "versionName": "2.0.19",
   "apkUrl": "https://github.com/SmartImportSolutions/SIS-Device-Manager-Updates/releases/download/v2.0.19/Manager.V2.0.19.apk",
-  sha256:fe653122adfb3736275baa684971d84ea760ed26143cb6799a7dbb4c5c40a28d
-  "releaseNotes": "Nieuw SIS App Center. Verbeteringen in Info en Wat is er nieuw. Kleine bugs en oplossingen."
+  "sha256": "fe653122adfb3736275baa684971d84ea760ed26143cb6799a7dbb4c5c40a28d",
+  "releaseNotes": "Verbeterd appicoon en inlogscherm. Nieuwe menuvolgorde en betere leesbaarheid. SIS App Center en kleine bugs en oplossingen."
 }
